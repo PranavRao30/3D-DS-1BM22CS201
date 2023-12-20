@@ -2,7 +2,7 @@
 #include<stdio.h>
 void sub(char a[]);
 void main(){
-    char a[]="My name is Prajwal P";
+    char a[]="My name is Pranav";
     sub(a);
     
 }
