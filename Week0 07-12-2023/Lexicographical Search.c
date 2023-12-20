@@ -2,7 +2,7 @@
 #include<string.h>
 void sort(char arr[][100]);
 void main(){
-    char arr[][100]={"Hello","my","Name","is","Prajwal"};
+    char arr[][100]={"Hello","my","Name","is","Pranav"};
     sort(arr);
 }
 void sort(char arr[][100]){
